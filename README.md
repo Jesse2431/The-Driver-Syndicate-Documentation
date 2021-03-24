@@ -1,7 +1,11 @@
 # The Driver Syndicate Documentation
  
-Unofficial documentation for The Driver Syndicate, this documentation is focused on modding the game
+Unofficial documentation for The Driver Syndicate, this documentation is focused on modding the game.
 
-### Where to start
+## Where to start
 
-I don't know, find out yourself ;) (PLACEHOLDER)
+(PLACEHOLDER)
+
+## About
+
+This documentation is still work in progress and might be (very) incomplete.
