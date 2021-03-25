@@ -1,5 +1,3 @@
-<TODO: Add images>
-
 # Installing the Equilibrium Blender plugin
 
 This document will help you installing the Equilibrium Blender Plugin.
