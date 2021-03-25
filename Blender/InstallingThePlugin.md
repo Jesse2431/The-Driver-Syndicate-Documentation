@@ -1,4 +1,4 @@
-<//  TODO: Add images  //>
+<  TODO: Add images  >
 
 # Installing the Equilibrium Blender plugin
 
